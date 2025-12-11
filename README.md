@@ -7,6 +7,8 @@ You can retrieve our result data from `./data/`
 
 ## 📖 Abstract
 This study develops an integrated framework to assess groundwater sustainability in China by combining hydroclimatic remote sensing data with interpretable machine learning. We compute annual Reliability (REL), Resilience (RES), Vulnerability (VUL), and a composite Sustainability Index (SI) from 2003 to 2023. Region-specific XGBoost models are trained for each major river basin, and SHAP (SHapley Additive exPlanations) is used to quantify feature importance and interactions among key drivers—such as precipitation, temperature, vegetation, surface water, and human activity proxies.
+[image](assets/framework.png)
+
 
 ---
 
