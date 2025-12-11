@@ -44,3 +44,42 @@ The workflow consists of two steps
 ### Download the preprocessed data
 1. Our cases can be downloaded from [Baidu Netdisk](https://pan.baidu.com/s/1HNpEC9jm5W9ZO9lWoORTPQ)
 2. Put the file in folder ./data/
+### Main Pipeline
+Run main_pipeline code:
+```shell
+python main_pipeline.py
+```
+
+---
+
+## 💡China GSI Mapping Result
+### The sustainability of groundwater in China from 2003 to 2023
+![image](assets/SI.png)
+
+---
+
+## 🍺 Analysis of Driving Factors
+![image](assets/SHAP.png)
+
+---
+
+## 📜Citation
+If you use our product or this study is helpful for you, please cite this project.
+```bibtex
+@article{AquaSustain-XAI,
+  title={Climate and human activities jointly drive the dynamics of groundwater sustainability in China},
+  author={Liyuan Wang, Yimin Wang*, Xuebin Wang*, Jianxia Chang, Junhao Zhang, Chengqing Ren},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+
+---
+
+## ❤️Acknowledgements
+We sincerely thank the providers of foundational datasets whose freely available geospatial and environmental data make this research possible.
+
+---
+
+## 📬Contact
+If you have any questions regarding the repo, please contact Liyuang Wang (wangliyuan9903@foxmail.com) or create an issue.
+
+
+
