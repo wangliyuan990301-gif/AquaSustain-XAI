@@ -69,7 +69,7 @@ If you use our product or this study is helpful for you, please cite this projec
 @article{AquaSustain-XAI,
   title={Climate and human activities jointly drive the dynamics of groundwater sustainability in China},
   author={Liyuan Wang, Yimin Wang, Xuebin Wang, Jianxia Chang, Junhao Zhang, Chengqing Ren},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
+  journal={...},
 }
 ```
 
